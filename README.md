@@ -1,4 +1,4 @@
-# sound_annotation_with_SPPAS
+# Sound annotations with SPPAS
 This is a quick description on how to work with SPPAS
 
 
